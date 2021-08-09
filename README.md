@@ -1,4 +1,4 @@
-# ~rip~
+# ~rip~ ![icon.png](etc/icon.png)
 
 
 // Rip Info:
